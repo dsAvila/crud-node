@@ -1,0 +1,1 @@
+Este repositório é referente ao curso "Programador Web Completo — Do Zero ao FullStack". Projeto é um CRUD utilizando o padrão MVC, desenvolvido com as tecnologias Node.js, Handlebars, Sequelize, MySQL e Express para roteamento.
