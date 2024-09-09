@@ -4,6 +4,7 @@ Este repositório é referente ao curso "Programador Web Completo — Do Zero ao
 npm install -g nodemon
 
 And nodemon will be installed globally to your system path.
+
 You can also install nodemon as a development dependency:
 
 npm install --save-dev nodemon
